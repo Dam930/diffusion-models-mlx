@@ -1,0 +1,13 @@
+black==23.11.0
+click==8.1.7
+mlx==0.21.1
+mnist==0.2.2
+mypy-extensions==1.0.0
+numpy==1.26.2
+opencv-python==4.8.1.78
+packaging==23.2
+pathspec==0.11.2
+platformdirs==4.1.0
+setuptools==68.0.0
+tqdm==4.66.1
+wheel==0.41.2
